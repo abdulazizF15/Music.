@@ -1,6 +1,6 @@
 token=NTE0ODIyNDgzOTgwMDU4NjQ3.XO382g.4kleDRO0RviGJygAojTmDYyaQKg
 owner=312075421992615946
-prefix= A
+prefix= Q
 game= . àBdulAziz#8111
 stayinchannel=true
 songinstatus=true
